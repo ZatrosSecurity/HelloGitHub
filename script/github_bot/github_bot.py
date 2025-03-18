@@ -27,7 +27,7 @@ ACCOUNT = {
     'username': '',
     'password': ''
 }
-
+github_token = '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'
 API = {
     'events': 'https://api.github.com/users/{username}/received_events'.format(username=ACCOUNT['username'])
 }
